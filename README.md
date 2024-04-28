@@ -1,4 +1,4 @@
-<em> # WIP </em>
+<h1 align="center"> WIP </h1>
 
 # zkAudits
 zkAudits is a tool designed to improve the integrity of security audit processes between auditors and client companies. The tool uses ZK to enable auditors to demonstrate the existence of vulnerabilities in a client's network without disclosing sensitive details about those vulnerabilities.
