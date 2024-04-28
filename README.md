@@ -1,7 +1,7 @@
 <em> # WIP </em>
 
 # zkAudits
-zkAudits is a tool designed to enhance the integrity and confidentiality of security audit processes between auditors and client companies. The tool leverages ZK to enable auditors to demonstrate the existence of vulnerabilities in a client's network without disclosing sensitive details about those vulnerabilities.
+zkAudits is a tool designed to improve the integrity of security audit processes between auditors and client companies. The tool uses ZK to enable auditors to demonstrate the existence of vulnerabilities in a client's network without disclosing sensitive details about those vulnerabilities.
 # Features
 - `ZKP Generation`: The tool facilitates the generation of cryptographic proofs using ZKPs to attest to the existence of vulnerabilities without revealing specific details.
 - `Secure Storage`: Generated ZKPs are securely stored in a tamper-proof environment, ensuring confidentiality and integrity.
