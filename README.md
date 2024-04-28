@@ -1,2 +1,2 @@
-# zkBalance
-ZKBalance uses ZK proofs to provide a proof of funds without sharing the user's actual account balance
+# zkAudits
+ZKAudits uses ZK proofs to provide a proof of vulnerability without disclosing the exact details of those vulnerabilities
