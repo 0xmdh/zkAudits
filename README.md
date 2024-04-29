@@ -5,8 +5,7 @@ zkAudits is a tool designed to improve the integrity of security audit processes
 # Features
 WIP
 # Optional Features
-- `API Integration`: The tool can be extended to function as an API service, allowing for integration with other security tools or platforms.
-# Circuits
+WIP
 WIP
 # Contracts
 WIP
